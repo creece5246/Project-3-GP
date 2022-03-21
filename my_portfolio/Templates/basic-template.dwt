@@ -1,0 +1,51 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Through My Lens</title>
+
+<link href="../assets/styles.css" rel="stylesheet" type="text/css">
+<style type="text/css">	
+main {
+    height: 3600px;
+	}
+	
+td{
+    background-color: #FFFFFF;
+    width: 600px;
+    padding: 20px;
+    
+}
+th {
+    color: #000000;
+    border: 5px solid #000000;
+    border-radius: 20px;
+}
+
+</style>
+<!-- TemplateEndEditable -->
+
+</head>
+<body>
+<div id="container">
+  <header></header>
+	<nav>
+	<ul> <li><a href="../pages/about.html">About</a></li>
+		<li><a href="../pages/blog.html">Blog</a></li>
+	  <li><a href = "../pages/gallery.html">Gallery</a></li>
+		<li><a href = "../pages/contact.html">Contact</a></li>
+	  </ul>
+	</nav>
+	<aside>
+	</aside>
+  <!-- TemplateBeginEditable name="main-content" -->
+	<main>
+	  <article>
+		<h1>Page Title</h1>
+		</article>
+  </main>
+<!-- TemplateEndEditable --> </div>
+	
+</body>
+</html>
